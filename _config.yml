@@ -15,4 +15,4 @@ footer: 'follow us on <a href="https://twitter.com/jas9reet">twitter</a>'
 
 # Build settings
 markdown: kramdown
-remote_theme: jas9reet/jas9reet.github.io
+remote_theme: b2a3e8/jekyll-theme-console
