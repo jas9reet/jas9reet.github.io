@@ -1,9 +1,8 @@
 ---
-title: /
+title: Jas9reet
 layout: home
 permalink: /
 ---
 
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
