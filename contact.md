@@ -7,11 +7,8 @@ permalink: /contact
 # Get in touch?
 
 <form action="mailto:katmoviehd.us@gmail.com" method="post" enctype="text/plain">
-Name:<br>
 <input type="text" placeholder="Name" name="name"><br>
-E-mail:<br>
 <input type="text" placeholder="E-Mail" name="mail"><br>
-Comment:<br>
 <input type="text" name="comment" placeholder="Message" size="50"><br><br>
 <input type="submit" value="[Send]">
 </form>
