@@ -6,11 +6,14 @@ permalink: /contact
 
 # Get in touch?
 
-<form action="mailto:katmoviehd.us@gmail.com" method="post" enctype="text/plain" >
-  <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
-  <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
-  <textarea rows="5" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
-  <input type="submit" value="[ submit ]">
+<form action="mailto:katmoviehd.us@gmail.com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" placeholder="Name" name="name"><br>
+E-mail:<br>
+<input type="text" placeholder="E-Mail" name="mail"><br>
+Comment:<br>
+<input type="text" name="comment" placeholder="Message" size="50"><br><br>
+<input type="submit" value="[Send]">
 </form>
 
 
