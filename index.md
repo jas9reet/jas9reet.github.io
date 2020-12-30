@@ -1,5 +1,5 @@
 ---
-title: Jas9reet
+title: /
 layout: home
 permalink: /
 ---
