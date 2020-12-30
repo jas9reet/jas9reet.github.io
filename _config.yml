@@ -5,13 +5,12 @@ url: "https://jas9reet.github.io"
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
   - contact.md
 
 style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/jas9reet">twitter</a>'
+footer: 'follow me on <a href="https://twitter.com/jas9reet">twitter</a>'
 
 # Build settings
 markdown: kramdown
